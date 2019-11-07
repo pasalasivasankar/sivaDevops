@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/M1049540/Space%20Game-web%20-%20Pipeline/_apis/build/status/pasalasivasankar.sivaDevops?branchName=master)](https://dev.azure.com/M1049540/Space%20Game-web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
